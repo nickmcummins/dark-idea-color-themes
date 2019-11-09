@@ -11,3 +11,9 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=56
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=56227) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/NautilusUnderwater.icls)
 
 ![NautilusUnderwater Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/NautilusUnderwater.png)
+
+
+## SpaceDark 
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59226) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/SpaceDark.icls)
+
+![SpaceDark Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/SpaceDark.png)
