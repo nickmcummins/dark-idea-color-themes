@@ -23,3 +23,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=58926) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/mlisch11.icls)
 
 ![mlisch11 Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/mlisch11.png)
+
+## Material Theme Darker 
+Source: ? | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/Material-Theme-Darker.icls)
+
+![Material-Theme-Darker Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/Material-Theme-Darker.png)
