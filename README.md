@@ -43,3 +43,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=57
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=1290) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/my-favouritest.icls)
 
 ![my favouritest Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/my-favouritest.png)
+
+## My first Theme57
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59741) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/My-first-Theme57.icls)
+
+![My first Theme57 Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/My-first-Theme57.png)
