@@ -28,3 +28,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=58
 Source: ? | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/Material-Theme-Darker.icls)
 
 ![Material-Theme-Darker Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/Material-Theme-Darker.png)
+
+## SeriousB
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59746) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/SeriousB.icls)
+
+![SeriousB Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/SeriousB.png)
