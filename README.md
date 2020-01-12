@@ -33,3 +33,8 @@ Source: ? | Download: [icls](https://github.com/nickmcummins/dark-idea-color-the
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59746) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/SeriousB.icls)
 
 ![SeriousB Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/SeriousB.png)
+
+## tj10
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=57913) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/tj10.icls)
+
+![tj10 Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/tj10.png)
