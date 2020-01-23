@@ -53,3 +53,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=58949) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/azdazdazazdazdaz.icls)
 
 ![azdazdazazdazdaz Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/azdazdazazdazdaz.png)
+
+## VSC Material Ocean
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59891) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/VSC-Material-Ocean.icls)
+
+![VSC Material Ocean Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/VSC-Material-Ocean.png)
