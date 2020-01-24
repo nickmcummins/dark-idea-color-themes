@@ -58,3 +58,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=58
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59891) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/VSC-Material-Ocean.icls)
 
 ![VSC Material Ocean Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/VSC-Material-Ocean.png)
+
+## RainDropsAlt
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59890) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/RainDropsAlt.icls)
+
+![RainDropsAlt Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/RainDropsAlt.png)
