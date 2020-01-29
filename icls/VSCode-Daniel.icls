@@ -1,9 +1,9 @@
 <scheme name="VSCode Daniel" version="142">
   <metaInfo>
-    <property name="created">2020-01-23T22:21:16</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-23T22:21:22</property>
+    <property name="created">2020-01-28T16:53:32</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-01-28T16:53:39</property>
     <property name="originalScheme">VSCode Daniel</property>
   </metaInfo>
   <colors>
@@ -166,8 +166,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7f9f7f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="659f65" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -475,6 +474,26 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="72737a" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="2d7fd6" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="7cd6f7" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="9afd32" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
