@@ -1,9 +1,9 @@
 <scheme name="Ice4Eyes" version="142">
   <metaInfo>
-    <property name="created">2019-10-29T09:25:05</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-10-29T09:25:17</property>
+    <property name="created">2020-01-28T17:27:04</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-01-28T17:27:11</property>
     <property name="originalScheme">Ice4Eyes</property>
   </metaInfo>
   <colors>
@@ -483,6 +483,38 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="72737a" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="2cebf2" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="379bd4" />
+      </value>
+    </option>
+    <option name="OC.HEADER_PATH">
+      <value>
+        <option name="FOREGROUND" value="e8663f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="3790d4" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="b6be0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
