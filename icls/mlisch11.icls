@@ -1,9 +1,9 @@
 <scheme name="mlisch11" version="142">
   <metaInfo>
-    <property name="created">2019-11-09T08:53:34</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-09T08:53:39</property>
+    <property name="created">2020-01-28T17:10:49</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-01-28T17:10:55</property>
     <property name="originalScheme">mlisch11</property>
   </metaInfo>
   <colors>
@@ -478,6 +478,43 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="72737a" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="c9c9ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="bcff78" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fff9" />
+      </value>
+    </option>
+    <option name="OC.HEADER_PATH">
+      <value>
+        <option name="FOREGROUND" value="bcff78" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="9fff" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="e1f7d5" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="ffff78" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
