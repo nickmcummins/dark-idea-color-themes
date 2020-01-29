@@ -1,12 +1,13 @@
 <scheme name="SpaceDark" version="142">
   <metaInfo>
-    <property name="created">2019-11-09T08:41:15</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-11-09T08:41:19</property>
+    <property name="created">2020-01-28T17:17:03</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-01-28T17:17:09</property>
     <property name="originalScheme">SpaceDark</property>
   </metaInfo>
   <colors>
+    <option name="ANNOTATIONS_COLOR" value="80" />
     <option name="CARET_COLOR" value="5b5b76" />
     <option name="CARET_ROW_COLOR" value="333342" />
     <option name="CONSOLE_BACKGROUND_KEY" value="22222c" />
@@ -18,6 +19,11 @@
     <option name="SELECTION_FOREGROUND" value="5b5b76" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3f3f51" />
     <option name="TEARLINE_COLOR" value="5b5b76" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="eaffe2" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="d1d1d1" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="d9e4f9" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="fffbcf" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="d9e4f9" />
     <option name="WHITESPACES" value="3f3f51" />
   </colors>
   <attributes>
@@ -477,6 +483,42 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="72737a" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="2977be" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="efc090" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="836bd7" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="c7376c" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="836bd7" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="cca40c" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="c7376c" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
