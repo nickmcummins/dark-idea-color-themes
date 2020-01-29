@@ -1,9 +1,9 @@
 <scheme name="VSC Material Ocean" version="142">
   <metaInfo>
-    <property name="created">2020-01-23T18:38:48</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-01-23T18:38:53</property>
+    <property name="created">2020-01-28T16:57:26</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.3.0.0</property>
+    <property name="modified">2020-01-28T16:57:32</property>
     <property name="originalScheme">VSC Material Ocean</property>
   </metaInfo>
   <colors>
@@ -477,6 +477,26 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="72737a" />
+      </value>
+    </option>
+    <option name="OC.DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
