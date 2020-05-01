@@ -1,9 +1,9 @@
 <scheme name="mlisch11" version="142">
   <metaInfo>
-    <property name="created">2020-01-28T17:10:49</property>
+    <property name="created">2020-04-30T20:43:08</property>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-01-28T17:10:55</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-04-30T20:43:25</property>
     <property name="originalScheme">mlisch11</property>
   </metaInfo>
   <colors>
@@ -14,7 +14,7 @@
     <option name="INDENT_GUIDE" value="808080" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="RIGHT_MARGIN_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="95bed8" />
+    <option name="SELECTION_BACKGROUND" value="609" />
     <option name="SELECTION_FOREGROUND" value="c0c0c0" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="808080" />
     <option name="TEARLINE_COLOR" value="ffffff" />
