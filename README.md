@@ -68,3 +68,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59898) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/VSCode-Daniel.icls)
 
 ![VSCode Daniel Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/VSCode-Daniel.png)
+
+## Government Sanctioned
+Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/Government-Sanctioned.icls)
+
+![Government Sanctioned Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/Government-Sanctioned.png)
