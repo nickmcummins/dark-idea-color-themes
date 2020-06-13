@@ -73,3 +73,8 @@ Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=59
 Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/Government-Sanctioned.icls)
 
 ![Government Sanctioned Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/Government-Sanctioned.png)
+
+## WALAS2
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=60068) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/WALAS2.icls)
+
+![WALAS2 Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/WALAS2.png)
