@@ -78,3 +78,8 @@ Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/mast
 Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=60068) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/WALAS2.icls)
 
 ![WALAS2 Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/WALAS2.png)
+
+## DuoTone Dark
+Source: [eclipsecolorthemes](http://www.eclipsecolorthemes.org/?view=theme&id=60224) | Download: [icls](https://github.com/nickmcummins/dark-idea-color-themes/raw/master/icls/DuoTone-Dark.icls)
+
+![DuoTone Dark Screenshot](https://raw.githubusercontent.com/nickmcummins/dark-idea-color-themes/master/screenshots/DuoTone-Dark.png)
