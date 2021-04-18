@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>github</id>
+  <editorColorsScheme>GitHub</editorColorsScheme>
+  <dark>false</dark>
+  <name>GitHub</name>
+  <colors>
+    <color id="background" value="f7f8faff"/>
+    <color id="foreground" value="5b6168ff"/>
+    <color id="text" value="292d31ff"/>
+    <color id="highlight" value="cce5ffff"/>
+    <color id="selectionBackground" value="3a66d150"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="edf1f5ff"/>
+    <color id="secondaryBackground" value="f3f3f3ff"/>
+    <color id="disabled" value="9ba0a3ff"/>
+    <color id="contrast" value="fafbfcff"/>
+    <color id="tableSelected" value="cce5ffff"/>
+    <color id="secondBorder" value="dfe1e4ff"/>
+    <color id="treeSelection" value="3a66d1ff"/>
+    <color id="notifications" value="dfecfeff"/>
+    <color id="accent" value="79cb60ff"/>
+    <color id="excluded" value="dcdcdcff"/>
+  </colors>
+  <themeId>github</themeId>
+</mtTheme>
